@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:43:37.186Z",
+  "generated_at": "2026-10-16T13:48:50.581Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
       "first_solved_at": "2026-10-16T13:43:35.475Z",
       "last_pushed_at": "2026-10-16T13:43:35.475Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-10-16T13:48:48.506Z",
+      "last_pushed_at": "2026-10-16T13:48:48.506Z",
       "language": "python",
       "lines": 4
     }
